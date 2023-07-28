@@ -1,0 +1,13 @@
+html {
+	font-size: 10px;
+}
+
+body {
+	margin: 0px;
+	font-family: Arial, Helvitica, sans-serif;
+	font-size: 1.4rem; /*10 * 1.4 = 14px */
+}
+
+a:link {
+	text-decoration: none;
+}
